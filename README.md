@@ -7,7 +7,7 @@
 
 ---
 
-## 👥 Meet the Auther
+## 👥 Meet the team
 * **Moustafa Yehia Hassan** *(Project Lead)*: Designed and coded the overall system architecture, including the Zero-Leakage Firewall, Geometric Analysis, Genetic Algorithm, Weighted Ensemble Classification, SHAP Explainability integration, and the Interactive GUI.
 * **Shasikumara Rajasegeran**: Proposed the initial medical domain (Diabetes), drafted introductory concepts, and assisted with GUI testing and data leakdge proof.
 * **Kirrthana Shanmugavelu**: Contributed to the baseline literature review and initial dataset statistics review.
