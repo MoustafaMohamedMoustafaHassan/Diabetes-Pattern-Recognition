@@ -1,17 +1,14 @@
 # Beyond the Black Box: A Leakage-Proof, Explainable Pattern Recognition Framework
 **Clinical Diabetes Prediction System**
 
-This repository contains the source code and complete documentation for the **Pattern Recognition (CT104-3-M)** assignment, developed as part of the Master of Science in Artificial Intelligence program at **Asia Pacific University of Technology & Innovation (APU)**.
 
 ---
 
-## 🎓 Acknowledgments
-We would like to express our deep gratitude to **Assoc. Prof. Dr. V. Sivakumar** for his valuable guidance and expert consultation throughout this project. His academic insights inspired us to build a rigorous, mathematically sound architecture rather than just running standard machine learning algorithms.
 
 ---
 
-## 👥 Meet the Team
-* **Moustafa Hassan** *(Project Lead)*: Designed and coded the overall system architecture, including the Zero-Leakage Firewall, Geometric Analysis, Genetic Algorithm, Weighted Ensemble Classification, SHAP Explainability integration, and the Interactive GUI.
+## 👥 Meet the Auther
+* **Moustafa Yehia Hassan** *(Project Lead)*: Designed and coded the overall system architecture, including the Zero-Leakage Firewall, Geometric Analysis, Genetic Algorithm, Weighted Ensemble Classification, SHAP Explainability integration, and the Interactive GUI.
 * **Shasikumara Rajasegeran**: Proposed the initial medical domain (Diabetes), drafted introductory concepts, and assisted with GUI testing and data leakdge proof.
 * **Kirrthana Shanmugavelu**: Contributed to the baseline literature review and initial dataset statistics review.
 
